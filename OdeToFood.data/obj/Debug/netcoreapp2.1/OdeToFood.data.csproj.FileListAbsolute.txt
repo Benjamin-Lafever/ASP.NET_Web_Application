@@ -1,0 +1,16 @@
+C:\ASP.NET Web application\OdeToFood.data\bin\Debug\netcoreapp2.1\OdeToFood.data.deps.json
+C:\ASP.NET Web application\OdeToFood.data\bin\Debug\netcoreapp2.1\OdeToFood.data.runtimeconfig.json
+C:\ASP.NET Web application\OdeToFood.data\bin\Debug\netcoreapp2.1\OdeToFood.data.runtimeconfig.dev.json
+C:\ASP.NET Web application\OdeToFood.data\bin\Debug\netcoreapp2.1\OdeToFood.data.dll
+C:\ASP.NET Web application\OdeToFood.data\bin\Debug\netcoreapp2.1\OdeToFood.data.pdb
+C:\ASP.NET Web application\OdeToFood.data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\ASP.NET Web application\OdeToFood.data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\ASP.NET Web application\OdeToFood.data\obj\Debug\netcoreapp2.1\OdeToFood.data.csproj.AssemblyReference.cache
+C:\ASP.NET Web application\OdeToFood.data\obj\Debug\netcoreapp2.1\OdeToFood.data.AssemblyInfoInputs.cache
+C:\ASP.NET Web application\OdeToFood.data\obj\Debug\netcoreapp2.1\OdeToFood.data.AssemblyInfo.cs
+C:\ASP.NET Web application\OdeToFood.data\obj\Debug\netcoreapp2.1\OdeToFood.data.csproj.CoreCompileInputs.cache
+C:\ASP.NET Web application\OdeToFood.data\obj\Debug\netcoreapp2.1\OdeToFood.data.csproj.CopyComplete
+C:\ASP.NET Web application\OdeToFood.data\obj\Debug\netcoreapp2.1\OdeToFood.data.dll
+C:\ASP.NET Web application\OdeToFood.data\obj\Debug\netcoreapp2.1\OdeToFood.data.pdb
+C:\ASP.NET Web application\OdeToFood.data\obj\Debug\netcoreapp2.1\OdeToFood.data.genruntimeconfig.cache
+C:\ASP.NET Web application\OdeToFood.data\obj\Debug\netcoreapp2.1\OdeToFood.data.GeneratedMSBuildEditorConfig.editorconfig

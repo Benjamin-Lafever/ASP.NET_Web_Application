@@ -1,0 +1,12 @@
+C:\ASP.NET Web application\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+C:\ASP.NET Web application\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.runtimeconfig.json
+C:\ASP.NET Web application\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.runtimeconfig.dev.json
+C:\ASP.NET Web application\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\ASP.NET Web application\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\ASP.NET Web application\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.AssemblyReference.cache
+C:\ASP.NET Web application\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\ASP.NET Web application\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+C:\ASP.NET Web application\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\ASP.NET Web application\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\ASP.NET Web application\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\ASP.NET Web application\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.genruntimeconfig.cache
